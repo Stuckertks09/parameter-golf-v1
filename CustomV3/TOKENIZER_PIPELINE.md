@@ -1,7 +1,4 @@
 
-# `TOKENIZER_PIPELINE.md`
-
-````md
 # Tokenizer Refinement Methodology
 ## A failure-driven, full-validation pipeline for tokenizer optimization
 
