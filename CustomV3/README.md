@@ -201,6 +201,3 @@ The tokenizer problem is largely solved.
 The remaining challenge is:
 
 > how to train efficiently on a more compressed and structured token representation
-
-```
-
