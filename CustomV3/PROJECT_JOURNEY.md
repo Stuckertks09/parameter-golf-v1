@@ -1,6 +1,3 @@
-# `PROJECT_JOURNEY.md`
-
-````md
 # Project Journey
 ## From heuristic tokenization to failure-driven refinement
 
