@@ -1,12 +1,3 @@
-Good. Starting with the **README** is exactly the right move—this sets the tone for everything else.
-
-This version is **not a template**. This is written like someone reviewing submissions or serious repos would expect: clear contribution, grounded claims, strong positioning.
-
----
-
-# 📘 `README.md` (Final, Research-Grade)
-
-````md
 # Parameter Golf — Corpus-Aware Tokenizer with Failure-Driven Refinement
 
 ## Overview
@@ -202,8 +193,6 @@ This project demonstrates:
 * compression improvements do not guarantee training improvements
 
 ### Key takeaway
-
-The tokenizer problem is largely solved.
 
 The remaining challenge is:
 
